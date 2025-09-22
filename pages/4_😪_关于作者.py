@@ -223,7 +223,7 @@ with col2:
     st.download_button(
         label="📄 下载简历 (PDF)",
         data="",  # 这里可以添加实际的PDF文件数据
-        file_name="杜凌云_个人简历.pdf",
+        file_name="jmli.pdf",
         mime="application/pdf",
         use_container_width=True
     )
